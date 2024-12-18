@@ -1,0 +1,11 @@
+{
+  "appId": "com.sabari.candy",
+  "appName": "puzzlecandy",
+  "webDir": "www",
+  "cordova": {
+    "preferences": {
+      "Fullscreen": "true",
+      "orientation": "landscape"
+    }
+  }
+}

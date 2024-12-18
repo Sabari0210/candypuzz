@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">puzzlecandy</string>
+    <string name="title_activity_main">puzzlecandy</string>
+    <string name="package_name">com.sabari.candy</string>
+    <string name="custom_url_scheme">com.sabari.candy</string>
+</resources>

@@ -1,0 +1,17 @@
+export default {
+    DESTROYED: -1,
+    BLOCKED: -2,
+    LOCKED: -3,
+    NORMAL: 0,
+    HORIZONTAL: 1,
+    VERTICLE: 2,
+    WRAPPED: 3,
+    EXPLODING: 4,
+    BOMB: 12,
+    BIG_WRAPPED: 6,
+    BIG_EXPLODING: 7,
+    FISH: 8,
+    LUCKY: 9,
+    COOLER: 10,
+    CANDY_BOMB:11, 
+}

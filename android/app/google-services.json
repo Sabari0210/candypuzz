@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011618605932",
+    "project_id": "puzzle-4d19a",
+    "storage_bucket": "puzzle-4d19a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011618605932:android:16796a2d8a66cbbb8da149",
+        "android_client_info": {
+          "package_name": "com.sabari.candyPuzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIYvnbtTWZBw7hjtTwgXJsTFhv9bkfVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
